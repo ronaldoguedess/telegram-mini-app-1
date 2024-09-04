@@ -9,7 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@twa-dev/sdk": "^7.0.0",
+    "@twa-dev/sdk": "^7.8.0",
+    "jose": "^5.8.0",
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18"
